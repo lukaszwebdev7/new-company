@@ -31,12 +31,7 @@ const CivilLaw = () => {
                         <div className="h-1 w-16 bg-yellow-box my-4"></div>
                         <ul className="text-lg xl:text-xl mb-10 tracking-wide ">
                             <li className="my-3 p-2 "><span className="text-blue-text">+ </span>prowadzeniem spraw związanych z zawieraniem i wykonaniem umów, w szczególności umów sprzedaży, umów o dzieło, umów o roboty budowlane, umów świadczenia usług, umów najmu, pożyczki</li>
-                            <li className="my-2 p-2"><span className="text-blue-text">+ </span>kredytami frankowymi - więcej informacji na moim blogu <span className=""> 
-                                <Link href="//kredytyindeksowane.pl">
-                                    <a className="text-blue-text font-bold hover:underline">kredytyindeksowane.pl</a>
-                                </Link>
-                                </span>
-                            </li>
+                            <li className="my-2 p-2"><span className="text-blue-text">+ </span>kredytami frankowymi </li>
                             <li className="my-2 p-2"><span className="text-blue-text">+ </span>dochodzeniem należności przed sądem i egzekucją tych należności</li>
                             <li className="my-2 p-2"><span className="text-blue-text">+ </span>zniesieniem współwłasności</li>
                             <li className="my-2 p-2"><span className="text-blue-text">+ </span>ochroną własności i posiadania</li>
