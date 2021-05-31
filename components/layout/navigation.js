@@ -92,7 +92,7 @@ const Navigation = () => {
 							</a>
 						</Link>
 					</div>
-					<div className={router.pathname == '/wnikliwy.pl' ? 'text-blue-text' : ''}>
+					<div className={router.pathname == '/wnikliwy-blog.vercel.app' ? 'text-blue-text' : ''}>
 						<Link href="//wnikliwy.pl/">
 							<a
 								style={{ fontFamily: 'Lobster Two', letterSpacing: '3px' }}
