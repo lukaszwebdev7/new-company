@@ -92,11 +92,11 @@ const Navigation = () => {
 							</a>
 						</Link>
 					</div>
-					<div className={router.pathname == '/wnikliwy-blog.vercel.app' ? 'text-blue-text' : ''}>
-						<Link href="//wnikliwy-blog.vercel.app/">
+					<div className={router.pathname == '/wnikliwy.pl' ? 'text-blue-text' : ''}>
+						<Link href="//wnikliwy.pl/">
 							<a
 								style={{ fontFamily: 'Lobster Two', letterSpacing: '3px' }}
-								className="block py-1 pl-2 rounded lg:inline-block lg:mt-0 font-bold transition duration-300 mr-4 text-base sm:text-lg md:text-xl lg:text-2xl hover:text-blue-text text-teal-400 italic"
+								className="block py-1 pl-2 rounded lg:inline-block lg:mt-0 font-bold transition duration-300 mr-4 text-base sm:text-lg md:text-xl lg:text-2xl hover:text-blue-text text-coffee italic"
 							>
 								wnikliwy.pl
 							</a>
