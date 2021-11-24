@@ -21,7 +21,7 @@ const Entrepreneurs = () => {
             <div className="flex justify-center w-full mb-12 sm:mt-4">
                 <div style={{ fontFamily: "Roboto Condensed" }} className="flex flex-col sm:flex-row w-11/12 xl:w-9/12">
                     <div className="sm:w-1/3 mb-2">
-                        <div className="sm:block text-xl sm:text-5xl sm:ml-2 lg:ml-16 font bold text-coffee">Obsługa przedsiębiorców.</div>
+                        <div className="sm:block text-xl sm:text-5xl sm:ml-2 lg:ml-16 font bold text-coffee leading-normal">Obsługa przedsiębiorców.</div>
                     </div>
                     <div className="sm:w-2/3 sm:ml-8 text-justify sm:text-left">
                         <div className="mb-2">

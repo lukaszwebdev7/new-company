@@ -10,9 +10,9 @@ const Radca = () => {
             </Head>
 
 
-            <link href="https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap" rel="stylesheet"></link>
+            <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet"/>
             <div className="h-10 sm:h-20 w-full border-t-2 border-gray-300">
-                <p style={{ fontFamily: "Lobster Two", letterSpacing: "3px" }} className="text-xl lg:text-3xl xl:text-4xl font-bold ml-2 mt-4 sm:mt-10 lg:ml-24 xl:ml-40 underline text-coffee px-2">W kilku zdaniach o sobie.</p>
+                <p style={{ fontFamily: "Lobster", letterSpacing: "3px" }} className="text-xl lg:text-3xl xl:text-4xl font-bold ml-2 mt-4 sm:mt-10 lg:ml-24 xl:ml-40 underline text-coffee px-2">W kilku zdaniach o sobie.</p>
             </div>
 
             <div className="flex justify-center mt-10">
@@ -77,7 +77,7 @@ const Radca = () => {
                     </div>
                     <div className="sm:w-2/3 sm:ml-20">
                         <div className="h-10 w-full">
-                            <p style={{ fontFamily: "Lobster Two", letterSpacing: "2px" }} className="text-lg lg:text-3xl xl:text-3xl ml-2 lg:ml-0 lg:mt-10 underline text-coffee">W kilku zdaniach o zawodzie radcy prawnego.</p>
+                            <p style={{ fontFamily: "Lobster", letterSpacing: "2px" }} className="text-lg lg:text-3xl xl:text-3xl ml-2 lg:ml-0 lg:mt-10 underline text-coffee">W kilku zdaniach o zawodzie radcy prawnego.</p>
                         </div>
                         <div className="flex justify-center w-full mt-4 sm:mt-8">
                             <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet"></link>

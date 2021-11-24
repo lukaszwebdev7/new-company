@@ -41,6 +41,7 @@ const Navigation = () => {
 			</div>
 			<div className="flex items-center">
 				<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet" />
+				<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet" />
 				<div
 					style={{ fontFamily: 'Roboto Condensed' }}
 					className="burger flex flex-col md:flex-row text-sm lg:flex-grow bg-white p-6 sm:flex sm:mr-8"
@@ -95,8 +96,8 @@ const Navigation = () => {
 					<div className={router.pathname == '/wnikliwy.pl' ? 'text-blue-text' : ''}>
 						<Link href="//wnikliwy.pl/">
 							<a
-								style={{ fontFamily: 'Lobster Two', letterSpacing: '3px' }}
-								className="block py-1 pl-2 rounded lg:inline-block lg:mt-0 font-bold transition duration-300 mr-4 text-base sm:text-lg md:text-xl lg:text-2xl hover:text-blue-text text-coffee italic"
+								style={{ fontFamily: 'Lobster', letterSpacing: '3px' }}
+								className="block py-1 pl-2 rounded lg:inline-block lg:mt-0 transition duration-300 mr-4 text-base sm:text-lg md:text-xl lg:text-2xl hover:text-blue-text text-coffee italic"
 							>
 								wnikliwy.pl
 							</a>

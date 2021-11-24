@@ -11,10 +11,10 @@ export function Specjalizacja() {
             </Head>
             <div className="border-t-2 border-gray-300">
                 <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet"></link>
-                <link href="https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap" rel="stylesheet"></link>
+                <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet"></link>
                 <div className="h-16 sm:h-32 xl:h-40 w-full sm:mb-4 xl:mb-16">
-                    <div style={{ fontFamily: "Lobster Two", letterSpacing: "2px" }} className="hidden sm:block text-lg lg:text-xl xl:text-2xl ml-2 lg:ml-32 xl:ml-40 mt-4 sm:mt-10 text-coffee">Prawo dotyczy każdego z Nas.</div>
-                    <div style={{ fontFamily: "Lobster Two", letterSpacing: "2px" }} className="hidden sm:block text-xl lg:text-3xl xl:text-5xl ml-2 lg:ml-32 xl:ml-40 underline text-coffee">Oto obszary, w których świadczę usługi.</div>
+                    <div style={{ fontFamily: "Lobster", letterSpacing: "2px" }} className="hidden sm:block text-lg lg:text-xl xl:text-2xl ml-2 lg:ml-32 xl:ml-40 mt-4 sm:mt-10 text-coffee">Prawo dotyczy każdego z Nas.</div>
+                    <div style={{ fontFamily: "Lobster", letterSpacing: "2px" }} className="hidden sm:block text-xl lg:text-3xl xl:text-5xl ml-2 lg:ml-32 xl:ml-40 underline text-coffee">Oto obszary, w których świadczę usługi.</div>
                     <div className="sm:hidden text-white text-center uppercase text-xl font-bold mt-4 text-coffee tracking-tight">Obszary świadczenia usług</div>
                 </div>
                 <div style={{ fontFamily: "Roboto Condensed" }} className="flex flex-col items-center">
@@ -35,7 +35,7 @@ export function Specjalizacja() {
                                                 <p className="bg-white px-1 rounded text-2xl text-gold">Sprawy majątkowe</p>
                                             </div>
                                         </div>
-                                        <div style={{ fontFamily: "Lobster Two", letterSpacing: "2px" }} className="text-xl text-gray-75 hover:underline">
+                                        <div style={{ fontFamily: "Lobster", letterSpacing: "2px" }} className="text-xl text-gray-75 hover:underline">
                                             więcej ...
                                     </div>
                                     </a>
@@ -52,7 +52,7 @@ export function Specjalizacja() {
                                                 <p className="bg-white px-1 rounded text-2xl text-gold">Spółki handlowe</p>
                                             </div>
                                         </div>
-                                        <div style={{ fontFamily: "Lobster Two", letterSpacing: "2px" }} className="text-xl text-gray-75 hover:underline">
+                                        <div style={{ fontFamily: "Lobster", letterSpacing: "2px" }} className="text-xl text-gray-75 hover:underline">
                                             więcej ...
                                     </div>
                                     </a>
@@ -70,7 +70,7 @@ export function Specjalizacja() {
                                                 <p className="bg-white px-1 rounded text-2xl text-gold xl:hidden">Przedsiębiorcy</p>
                                             </div>
                                         </div>
-                                        <div style={{ fontFamily: "Lobster Two", letterSpacing: "2px" }} className="text-xl text-gray-75 hover:underline">
+                                        <div style={{ fontFamily: "Lobster", letterSpacing: "2px" }} className="text-xl text-gray-75 hover:underline">
                                             więcej ...
                                     </div>
                                     </a>
@@ -88,7 +88,7 @@ export function Specjalizacja() {
                                                 <p className="bg-white px-1 rounded text-2xl text-gold">Sprawy rodzinne</p>
                                             </div>
                                         </div>
-                                        <div style={{ fontFamily: "Lobster Two", letterSpacing: "2px" }} className="text-xl text-gray-75 hover:underline">
+                                        <div style={{ fontFamily: "Lobster", letterSpacing: "2px" }} className="text-xl text-gray-75 hover:underline">
                                             więcej ...
                                     </div>
                                     </a>
@@ -105,7 +105,7 @@ export function Specjalizacja() {
                                                 <p className="bg-white px-1 rounded text-2xl text-gold">Analiza umów w IT</p>
                                             </div>
                                         </div>
-                                        <div style={{ fontFamily: "Lobster Two", letterSpacing: "2px" }} className="text-xl text-gray-75 hover:underline">
+                                        <div style={{ fontFamily: "Lobster", letterSpacing: "2px" }} className="text-xl text-gray-75 hover:underline">
                                             więcej ...
                                     </div>
                                     </a>
