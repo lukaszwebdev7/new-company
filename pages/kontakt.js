@@ -21,10 +21,10 @@ export default function Contact() {
                             <ul className="text-center sm:text-base xl:text-lg">
                                 <li className="mt-4 font-bold">Radca Prawny Łukasz Szczepaniak</li>
                                 <li className="mb-4 font-bold">Kancelaria Radcy Prawnego</li>
-                                <li className="mb-4">ul. Sienkiewicza 8</li>
-                                <li className="mb-4">05 - 500 Piaseczno</li>
+                                <li className="mb-4"></li>
+                                <li className="mb-4"></li>
                                 <li className="mb-4">tel. 505 305 893</li>
-                                <li className="">e-mail: LS@radcapiaseczno.pl</li>
+                                <li className=""></li>
                             </ul>
                         </div>
                         <div className="sm:w-1/4 xl:w-1/4 mx-8 mb-10">
@@ -56,7 +56,7 @@ export default function Contact() {
                     </div>
                 </div>
 
-                <div className="w-full flex flex-col justify-center mb-20 sm:mb-24">
+                {/* <div className="w-full flex flex-col justify-center mb-20 sm:mb-24">
 
                     <div className="flex justify-center mb-4">
                         <svg className="h-8 w-8 fill-current text-blue-text" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M10 20S3 10.87 3 7a7 7 0 1114 0c0 3.87-7 13-7 13zm0-11a2 2 0 100-4 2 2 0 000 4z" /></svg>
@@ -68,7 +68,7 @@ export default function Contact() {
                     <div className="flex justify-center">
                         <iframe className="w-11/12 h-96 sm:w-2/3 xl:w-3/4 rounded" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9810.170077927241!2d21.0258568!3d52.0698532!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa67a08caf618d01a!2sRadca%20Prawny%20%C5%81ukasz%20Szczepaniak%20Kancelaria%20Radcy%20Prawnego!5e0!3m2!1spl!2spl!4v1603645233912!5m2!1spl!2spl" width="1200" height="600" frameBorder="0" style={{ border: 0 }} allowFullScreen="" aria-hidden="false" tabIndex="0"></iframe>
                     </div>
-                </div>
+                </div> */}
 
                 <div className="flex w-full justify-center mb-8">
                     <div className="flex flex-row w-10/12 xl:w-3/4">
