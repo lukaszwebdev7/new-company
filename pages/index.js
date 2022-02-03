@@ -8,11 +8,8 @@ export default function Home() {
 		<Fragment>
 			<Head>
 				<link rel="shortcut icon" href="/favicon.ico" />
-				<meta
-					name="description"
-					content="Radca Prawny Łukasz Szczepaniak Piaseczno Praktyka: sprawy majątkowe, spółki handlowe, obsługa przedsiębiorców, sprawy rodzinne, umowy w IT."
-				/>
-				<title>Kancelaria Radcy Prawnego</title>
+				<meta name="description" content="Radca Prawny Łukasz Szczepaniak" />
+				<title>Radca Prawny</title>
 			</Head>
 			<HomePage />
 		</Fragment>
