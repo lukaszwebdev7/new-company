@@ -27,7 +27,7 @@ const Entrepreneurs = () => {
                         <div className="mb-2">
                             <img className="sm:rounded shadow-xl" src="/assets/img/pismo.jpg" alt="" />
                         </div>
-                        <div className="text-lg sm:text-xl xl:text-2xl font-bold uppercase bg-blue-bg text-white px-2 rounded tracking-wider">W tym zakresie zajmuję się</div>
+                        <div className="text-lg sm:text-xl xl:text-2xl font-bold uppercase bg-blue-bg text-white px-2 rounded tracking-wider">W tym zakresie zajmowałem się</div>
                         <div className="h-1 w-16 bg-yellow-box my-4"></div>
                         <ul className="text-lg xl:text-xl mb-10">
                             <li className="my-2 p-2 tracking-wide">udzielaniem wsparcia w wymienionych już obszarach, a ponadto, w ramach stałej bieżącej obsługi:</li>

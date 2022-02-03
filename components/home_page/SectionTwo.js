@@ -13,7 +13,7 @@ const SectionTwo = () => {
 						<div className="h-1 w-1/4 divide-y border-b-2 mb-16 xl:mb-10 xxl:mb-20 border-coffee" />
 					</div>
 					<p className="mb-12 xl:mb-16 xxl:mb-24 lg:text-xl xl:text-2xl xxl:text-3xl">
-						Profesjonalna pomoc prawna dla klientów indywidualnych i przedsiębiorców.
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent aliquam tincidunt ornare.
 					</p>
 					<div className="flex justify-center">
 						<div className="flex flex-col bg-yellow-box py-4 px-3 rounded w-11/12 sm:w-3/4 lg:w-full xl:w-11/12 lg:mb-8">

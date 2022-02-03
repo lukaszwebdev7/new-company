@@ -13,12 +13,12 @@ export function Specjalizacja() {
                 <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet"></link>
                 <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet"></link>
                 <div className="h-16 sm:h-32 xl:h-40 w-full sm:mb-4 xl:mb-16">
-                    <div style={{ fontFamily: "Lobster", letterSpacing: "2px" }} className="hidden sm:block text-lg lg:text-xl xl:text-2xl ml-2 lg:ml-32 xl:ml-40 mt-4 sm:mt-10 text-coffee">Prawo dotyczy każdego z Nas.</div>
-                    <div style={{ fontFamily: "Lobster", letterSpacing: "2px" }} className="hidden sm:block text-xl lg:text-3xl xl:text-5xl ml-2 lg:ml-32 xl:ml-40 underline text-coffee">Oto obszary, w których świadczę usługi.</div>
-                    <div className="sm:hidden text-white text-center uppercase text-xl font-bold mt-4 text-coffee tracking-tight">Obszary świadczenia usług</div>
+                    <div style={{ fontFamily: "Lobster", letterSpacing: "3px" }} className="text-xl lg:text-3xl xl:text-4xl font-bold ml-2 mt-4 sm:mt-10 lg:ml-24 xl:ml-40 underline text-coffee px-2">Prawo dotyczy każdego z Nas.</div>
+                    {/* <div style={{ fontFamily: "Lobster", letterSpacing: "2px" }} className="hidden sm:block text-xl lg:text-3xl xl:text-5xl ml-2 lg:ml-32 xl:ml-40 underline text-coffee">Oto obszary, w których świadczę usługi.</div> */}
+                    {/* <div className="sm:hidden text-white text-center uppercase text-xl font-bold mt-4 text-coffee tracking-tight">Obszary świadczenia usług</div> */}
                 </div>
                 <div style={{ fontFamily: "Roboto Condensed" }} className="flex flex-col items-center">
-                    <div className="uppercase text-sm sm:text-2xl xl:text-4xl mb-6 font-bold text-gray-75 tracking-wide">Specjalizacja</div>
+                    <div className="uppercase text-sm sm:text-2xl xl:text-4xl mb-6 font-bold text-gray-75 tracking-wide">Doświadczenie</div>
                     <div className="h-1 w-16 bg-gold"></div>
                 </div>
                 <div className="flex justify-center w-full antialiased pt-4 xl:pt-10 mb-20 sm:mb-32">

@@ -22,7 +22,7 @@ export default function Cooperation() {
                                     <img src="/assets/img/hands.jpg" alt="zdjęcie-hands" className="rounded" />
                                 </div>
                                 <div style={{ fontFamily: "Roboto Condensed" }} className="sm:mt-6 xl:mt-16 mb-4 xl:mb-10 text-base xl:text-xl text-justify">
-                                    Dla zapewienia jak najwyższego poziomu świadczonych usług współpracuję z zespołem znakomitych prawników, specjalistów z zakresu prawa cywilnego, handlowego, gospodarczego i rodzinnego, a także specjalistami z zakresu szacowania wartości nieruchomości, budownictwa i geodezji, branży IT i bankowości. W szybko zmieniającym się otoczeniu prawnym znaczenie ma bowiem nie tylko możliwość sięgnięcia do instytucji prawa, ale także możliwość połączenia wiedzy prawniczej z niezbędnym zakresem informacji branżowych.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent aliquam tincidunt ornare. In libero erat, iaculis sit amet sem vitae, interdum convallis erat. Vestibulum sed nisi in ante ultrices sagittis. Mauris mollis justo eget ante vehicula aliquam. Praesent laoreet condimentum lectus, vel tempor magna dictum quis. Aliquam accumsan rutrum ullamcorper. Maecenas ac lacus posuere, bibendum nulla eget, aliquet justo.Donec id sem vitae ipsum condimentum fringilla. Praesent quis orci sodales, scelerisque lacus at, aliquam justo.
                                 </div>
                             </div>
                             <div className="hidden sm:block sm:w-7/12 xl:w-8/12 mb-10 ml-20 mt-10">

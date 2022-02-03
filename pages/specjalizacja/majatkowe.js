@@ -27,7 +27,7 @@ const CivilLaw = () => {
                         <div className="mb-2">
                             <img className="sm:rounded shadow-xl" src="/assets/img/dokument.jpg" alt="" />
                         </div>
-                        <div className="text-lg sm:text-xl xl:text-2xl font-bold uppercase bg-blue-bg text-white px-2 rounded tracking-wider">W tym zakresie zajmuję się</div>
+                        <div className="text-lg sm:text-xl xl:text-2xl font-bold uppercase bg-blue-bg text-white px-2 rounded tracking-wider">W tym zakresie zajmowałem się</div>
                         <div className="h-1 w-16 bg-yellow-box my-4"></div>
                         <ul className="text-lg xl:text-xl mb-10 tracking-wide ">
                             <li className="my-3 p-2 "><span className="text-blue-text">+ </span>prowadzeniem spraw związanych z zawieraniem i wykonaniem umów, w szczególności umów sprzedaży, umów o dzieło, umów o roboty budowlane, umów świadczenia usług, umów najmu, pożyczki</li>
@@ -47,7 +47,7 @@ const CivilLaw = () => {
                             <li className="my-2 p-2"><span className="text-blue-text">+ </span>prowadzeniem spraw dział spadku</li>
                             <li className="my-2 p-2"><span className="text-blue-text">+ </span>prowadzeniem spraw o zachowek</li>
                         </ul>
-                        <div style={{ fontFamily: "Roboto Condensed" }} className="text-lg xl:text-xl p-2 text-justify">Prowadzenie spraw obejmuje doradztwo, sporządzanie opinii prawnych, niezbędnych pism, w tym środków zaskarżenia i skarg kasacyjnych, zastępstwo przed sądem i organami władzy publicznej, pomoc przy pozyskiwaniu niezbędnych dokumentów i informacji.</div>
+                        <div style={{ fontFamily: "Roboto Condensed" }} className="text-lg xl:text-xl p-2 text-justify">Prowadzenie spraw obejmowało doradztwo, sporządzanie opinii prawnych, niezbędnych pism, w tym środków zaskarżenia i skarg kasacyjnych, zastępstwo przed sądem i organami władzy publicznej, pomoc przy pozyskiwaniu niezbędnych dokumentów i informacji.</div>
                     </div>
                 </div>
             </div>

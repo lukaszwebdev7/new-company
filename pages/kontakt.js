@@ -20,7 +20,7 @@ export default function Contact() {
                             <div className="flex justify-center mb-8"><span className="block h-1 w-20 bg-yellow-box"></span></div>
                             <ul className="text-center sm:text-base xl:text-lg">
                                 <li className="mt-4 font-bold">Radca Prawny Łukasz Szczepaniak</li>
-                                <li className="mb-4 font-bold">Kancelaria Radcy Prawnego</li>
+                                {/* <li className="mb-4 font-bold">Kancelaria Radcy Prawnego</li> */}
                                 <li className="mb-4"></li>
                                 <li className="mb-4"></li>
                                 <li className="mb-4">tel. 505 305 893</li>
@@ -33,15 +33,15 @@ export default function Contact() {
                             <div className="text-center sm:text-base xl:text-lg">
                                 <div className="flex flex-col sm:flex-row justify-between my-4">
                                     <p className="font-bold">Poniedziałek - Piątek</p>
-                                    <p>9.00 - 18.00</p>
+                                    <p>--- - ---</p>
                                 </div>
                                 <div className="flex flex-col sm:flex-row justify-between mb-4">
                                     <p className="font-bold">Sobota</p>
-                                    <p>10.00 - 14.30</p>
+                                    <p><p>--- - ---</p></p>
                                 </div>
                                 <div className="flex flex-col sm:flex-row justify-between">
                                     <p className="font-bold">Niedziele i święta</p>
-                                    <p>nieczynne</p>
+                                    <p>--- - ---</p>
                                 </div>
                             </div>
                         </div>
@@ -49,8 +49,8 @@ export default function Contact() {
                             <p className="text-center text-base xl:text-xl font-bold mb-2 text-white bg-lightblue py-1 rounded">Numer rachunku bankowego</p>
                             <div className="flex justify-center mb-8"><span className="block h-1 w-20 bg-yellow-box"></span></div>
                             <ul className="text-center sm:text-base xl:text-lg mt-4">
-                                <li className="font-bold">PKO Bank Polski S.A.</li>
-                                <li>53 1020 4900 0000 8202 3112 3733</li>
+                                <li className="font-bold">Praesent aliquam.</li>
+                                <li>Praesent aliquam tincidunt ornare.</li>
                             </ul>
                         </div>
                     </div>

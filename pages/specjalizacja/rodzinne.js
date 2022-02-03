@@ -27,7 +27,7 @@ const FamilyLaw = () => {
                         <div className="mb-2">
                             <img className="sm:rounded shadow-xl" src="/assets/img/para.jpg" alt="" />
                         </div>
-                        <div className="text-lg sm:text-xl xl:text-2xl font-bold uppercase bg-blue-bg text-white px-2 rounded tracking-wider">W tym zakresie zajmuję się sprawami</div>
+                        <div className="text-lg sm:text-xl xl:text-2xl font-bold uppercase bg-blue-bg text-white px-2 rounded tracking-wider">W tym zakresie zajmowałem się sprawami</div>
                         <div className="h-1 w-16 bg-yellow-box my-4"></div>
                         <ul className="text-lg xl:text-xl mb-10">
                             <li className="my-2 p-2 tracking-wide"><span className="text-blue-text">+ </span>o rozwód</li>

@@ -28,13 +28,13 @@ const Radca = () => {
                                     Ukończyłem studia magisterskie na kierunku prawo na Wydziale Prawa i Administracji Uniwersytetu Marii Curie-Skłodowskiej w Lublinie. Aplikację radcowską odbyłem w Okręgowej Izbie Radców Prawnych w Lublinie. W Akademii Leona Koźmińskiego w Warszawie ukończyłem studia podyplomowe z zakresu Prawa zamówień publicznych, a w Szkole Głównej Gospodarstwa Wiejskiego w Warszawie studia podyplomowe z zakresu Pośrednictwa w obrocie nieruchomościami.
                                 </div>
                                 <div className="my-2">
-                                    Przez ponad <strong>10 lat</strong> wykonywałem pracę i świadczyłem usługi na rzecz innych kancelarii prawnych. <strong>W 2020 roku, przyszedł czas na własną praktykę.</strong>
+                                    Przez ponad <strong>10 lat</strong> wykonywałem pracę i świadczyłem usługi na rzecz innych kancelarii prawnych. 
                                 </div>
-                                <div className="my-2">
+                                {/* <div className="my-2">
                                     Świadczę profesjonalną pomoc prawną dla klientów indywidualnych i przedsiębiorców, która może mieć charakter zarówno stały, jak i jednostkowy.
-                                </div>
+                                </div> */}
                                 <div className="my-2">
-                                    Wierzę, że ciężka praca i poświęcenie przynoszą sukcesy, a indywidualne podejście do potrzeb klienta wymarzony efekt.
+                                    Wierzę, że ciężka praca i poświęcenie przynoszą sukcesy.
                                 </div>
                                 <link href="https://fonts.googleapis.com/css2?family=Caveat&display=swap" rel="stylesheet"></link>
                                 <div style={{ fontFamily: "Caveat" }} className="sm: text-2xl xl:text-3xl my-2 text-right">
@@ -44,16 +44,16 @@ const Radca = () => {
                 <div style={{ fontFamily: "Roboto Condensed" }} className="flex w-full justify-center mt-4 mb-6">
                     <div className="flex flex-col w-11/12 sm:w-10/12 lg:w-full">
                         <div className="flex flex-row items-center mb-4">
-                            <div className="h-10 w-10 sm:h-12 sm:w-12 mr-4">
+                            {/* <div className="h-10 w-10 sm:h-12 sm:w-12 mr-4">
                                 <img src="/assets/img/f_logo.png" alt="Facebook" className="object-cover" />
-                            </div>
-                            <div>
+                            </div> */}
+                            {/* <div>
                                 <Link href="//facebook.com/pages/category/Legal/Kancelaria-Radcy-Prawnego-Łukasza-Szczepaniaka-102564995007262/">
                                     <a style={{ fontFamily: "Roboto Condensed" }} className="hover:underline">
                                     Na <strong>Facebooku</strong> znajdziesz mnie po nazwie "radcapiaseczno". Kliknij <strong>tu</strong>, aby teraz przejść do strony.
                                     </a>
                                 </Link>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div> 

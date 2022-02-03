@@ -27,7 +27,7 @@ const ITagreements = () => {
                         <div className="mb-2">
                             <img className="sm:rounded shadow-xl" src="/assets/img/binary.jpg" alt="" />
                         </div>
-                        <div className="text-lg sm:text-xxl xl:text-2xl font-bold uppercase bg-blue-bg text-white px-2 rounded tracking-wider">W tym zakresie zajmuję się</div>
+                        <div className="text-lg sm:text-xxl xl:text-2xl font-bold uppercase bg-blue-bg text-white px-2 rounded tracking-wider">W tym zakresie zajmowałem się</div>
                         <div className="h-1 w-16 bg-yellow-box my-4"></div>
                         <ul className="text-lg xl:text-xl mb-10 tracking-wide">
                             <li className="my-2 p-2"><span className="text-blue-text">+ </span>analizą i opracowaniem umów z zakresu dostawy sprzętu komputerowego i oprogramowania w ramach zamówień publicznych</li>
